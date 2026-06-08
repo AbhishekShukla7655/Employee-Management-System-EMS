@@ -1,0 +1,7 @@
+ems_backend/target/
+ems_frontend/node_modules/
+ems_frontend/dist/
+.idea/
+.vscode/
+.env
+.env.*
